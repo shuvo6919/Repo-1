@@ -1,0 +1,11 @@
+.page-bg{background:aqua}
+
+.h1-bg{background-color: black; margin:10px 30%; padding:40px 0px;border: 10px solid white;border-radius: 10px; }
+
+h1{color:aliceblue;text-align: center;}
+
+.div-1{background-color: rgb(92, 240, 92); padding: 10px 10px; border:10px solid rgb(223, 108, 223);border-radius: 10px;margin: 10px 15%;}
+
+.div-2{background-color: rgb(235, 181, 80); padding: 10px 10px; border:10px solid rgb(223, 108, 223);border-radius: 10px;margin: 10px 15%;}
+
+.comment{background-color: brown;border-radius: 10px; border: 10px solid black;margin: 10px 30%;padding: 20px 20px; align-items: center;display:flex;}
